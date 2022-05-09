@@ -125,6 +125,9 @@
               "vendorChunk": false
             }
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy"
         }
       }
     }
